@@ -1,5 +1,5 @@
 // imprimir, contar y sumar los multiplos de 2 que hay entre una serie de numeros, 
-// tal que el segundo sea mayor o igual que el primero
+// tal que el segundo sea mayor o igual que el primero, usando prompt-sync
 
 let first = 0;
 let second = 0;
