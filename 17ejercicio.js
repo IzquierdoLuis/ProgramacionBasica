@@ -18,7 +18,7 @@ function setNumber(value){
     return value;
 }
 
-//----------------------------------------------
+//---------------------------------------------
 
 do{
     first = setNumber(first);
