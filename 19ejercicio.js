@@ -1,4 +1,5 @@
 // programa que simula el funcionamiento de un reloj digital y que permite ponerlo en hora
+// usando prompt-sync
 
 let update = " ";
 
