@@ -1,3 +1,6 @@
+// introducir un numero, decir si es primo, su factorial y su tabla de multiplicar
+// usando prompt-sync
+
 const prompt = require('prompt-sync')();
 
 function setNumber(value){
